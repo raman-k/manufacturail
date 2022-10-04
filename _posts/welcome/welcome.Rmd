@@ -21,13 +21,13 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ```
 
-Manufacturing, maintenance and repair of railway rolling stock require a strong technical foundation. In this blog, I will use the term manufacturing to cover maintenance, repair and manufacturing.
+Manufacturing, maintenance and repair of railway rolling stock require a strong technical foundation. In this blog, I will use the term manufacturing to cover manufacturing, maintenance and repair.
 
 The institutional knowledge within the technical cadres of Indian Railways, is deep and strong. The cadres comprise of a diverse set of personnel starting from technicians to senior managers. Each sub-set of the cadre brings with it a set of competencies.
 
 While the junior levels in the cadre are a repository of practical experience, they often lack the ability to articulate their thoughts in a manner that leads to better decision making. At the same time, in most cases, they are limited by the experience that they have gained in their careers.
 
-The senior managers come with a strong theoretical background in engineering. At least in the initial part of their careers, they lack experience in the specialized areas of rolling stock manufacturing. Even with many years of experience, they do not have a thorough "hands-on" feel of what goes into the activities related to manufacturing of rolling stock. They however bring to the table the much needed breadth of perspective - ranging from strategic planning, selection of technology, identifying training needs etc.
+The senior managers come with a strong theoretical background in engineering. At least in the initial part of their careers, they lack experience in the specialized areas of rolling stock manufacturing. Even with many years of experience, they do not have a thorough "hands-on" feel of what goes into the activities related to manufacturing of rolling stock. They however bring to the table the much needed breadth of perspective - such as strategic planning, selection of technology, identifying training needs etc.
 
 Between these two levels is the sub-set of supervisors. Apart from functioning as field level managers in a 24x7x365 mode of operation, they serve as a bridge between the technicians and the senior managers. In many ways, they are the back bone of the technical cadre - as they ensure continuity of operational strategies that have been established over the years.
 
