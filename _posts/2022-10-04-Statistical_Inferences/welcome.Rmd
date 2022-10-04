@@ -1,0 +1,24 @@
+---
+title: "Statistical Inferences"
+description: |
+  How do we make inferences that are "statsitically sound"?
+author:
+  - name: K Raman
+    url: https://raman-k.github.io/
+    affiliation: Rail Wheel factory Yelahanka
+    affiliation_url: https://rwf.indianrailways.gov.in
+date: 10-04-2022
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+# Learn more about creating blogs with Distill at:
+# https://rstudio.github.io/distill/blog.html
+
+```
+
+A statistic is a function of sample data. The sum, average, variance or standard deviation of the sample data are examples of a statistic. Since a statistic is itself a function of sample from a random process, it will exhibit randomness. So, how do we make sound inferences about processes that are random?
