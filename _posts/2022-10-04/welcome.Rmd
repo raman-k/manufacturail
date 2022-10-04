@@ -1,0 +1,30 @@
+---
+title: "Welcome to manufactuRail"
+description: |
+  Welcome to my blog, manufactuRail. I am a mechanical engineer with the Indian Railways. In this blog, I share my thoughts on how manufacturing and railways are connected. I hope you enjoy reading what I have to say!
+author:
+  - name: K Raman
+    url: https://raman-k.github.io/
+    affiliation: Rail Wheel factory Yelahanka
+    affiliation_url: https://rwf.indianrailways.gov.in
+date: 10-04-2022
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+# Learn more about creating blogs with Distill at:
+# https://rstudio.github.io/distill/blog.html
+
+```
+
+I have been with the Railroad industry for more than 30 years. Most of my experience has been in the areas of maintenance, repair and manufacturing of rolling stock.  
+1.	One is that factories are huge messes that cannot possibly be understood, and at the best that anyone can do is to overbuild them and then, react to unwelcome events as they happen.
+2.	The other is that factories can be understood, but only designed and operated using common sense, non-quantitative methods.
+1.	The message here is that we can treat factories with quantitative engineering approaches and methods.
+2.	Complex systems can be hard to manage. And when a system is not well-understood, rules for management proliferate. This is because rules are developed to regulate behavior. Behavior refers to how the system behaves and how it reacts to events. Good rules promote desirable behavior. Bad rules promote bad behavior. But bad rules can lead to unexpected, undesirable behavior. Why? Because the system is not well-understood. If you don't understand how a system works, you won't design rules that lead to desirable behavior and desirable performance. Once somebody sees that things aren't going so well, they develop new rules to regulate the new behavior. But these new rules won't be so good for the same reason. You don't understand the system. You see the bad behavior, and you develop still more rules, and so forth. Whenever you see a complicated system in which there are large, large numbers of rules, that may be a sign that the system is not well-understood, and you have to go back to basics to really understand it. 
+
+
