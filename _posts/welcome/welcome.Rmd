@@ -1,7 +1,7 @@
 ---
 title: "Welcome to manfactuRail"
 description: |
-  Hi! I am a mechanical engineer with the Indian Railways. I've been with the organization for over 30 years now. My experience is in the areas of maintenance, repair and manufacture of rolling stock.
+  Hi! I am a mechanical engineer with the Indian Railways. I've been with the organization for over 30 years now. My experience is in the areas of maintenance, repair and manufacture of rolling stock. I am passionate about manufacturing - in particular about applying scientific methods to analyze and improve manufacturing operations.
 author:
   - name: K Raman
     url: https://raman-k.github.io/
@@ -21,34 +21,22 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ```
 
-There are two views about factories that are very
-widespread.
+Manufacturing, maintenance and repair of railway rolling stock require a strong technical foundation. The institutional knowledge in specialized technical areas is deep and strong. The cadres consist of a diverse set of personnel starting from technicians to senior managers. Each sub-set of the cadre brings with it a set of competencies. While the junior levels in the cadre are a repository of practical experience, they often lack the ability to articulate their thoughts in a manner that leads to better decision making. At the same time, in most cases, they are limited by the experience that they have gained in their careers. In this blog, I will use the term manufacturing to cover maintenance, repair and manufacturing.
 
-1.     
-One is that factories are huge messes that cannot
-possibly be understood, and at the best that anyone can do is to overbuild them
-and then, react to unwelcome events as they happen.
+The senior managers come with a strong theoretical background in engineering. At least in the initial part of their careers, they lack experience in the specialized areas of rolling stock. Even with many years of experience, they do not have a thorough "hand-on" feel of what goes into the activities related to manufacturing of rolling stock.
 
-2.     
-The other is that factories can be understood, but only
-designed and operated using common sense, non-quantitative methods.
+Between the two levels is the sub-set of supervisors. Apart from functioning as field level managers in a 24x7x365 mode of operation, they serve as a bridge between the technicians and the senior managers. In many ways, they are the back bone of the technical cadre - as they ensure continuity of operational strategies that have been established over the years.
 
-1.     
-The message here is that we can treat factories with
-quantitative engineering approaches and methods.
+The entire cadre exists to carry out activities pertaining to manufacture of rolling stock - and to solve problems that are encountered in course of pursuing these activities.
 
-2.     
-Complex systems can be
-hard to manage. And when a system is not well-understood, rules for management
-proliferate. This is because rules are developed to regulate behavior. Behavior
-refers to how the system behaves and how it reacts to events. Good rules
-promote desirable behavior. Bad rules promote bad behavior. But bad rules can
-lead to unexpected, undesirable behavior. Why? Because the system is not
-well-understood. If you don't understand how a system works, you won't design
-rules that lead to desirable behavior and desirable performance. Once somebody
-sees that things aren't going so well, they develop new rules to regulate the
-new behavior. But these new rules won't be so good for the same reason. You
-don't understand the system. You see the bad behavior, and you develop still
-more rules, and so forth. Whenever you see a complicated system in which there
-are large, large numbers of rules, that may be a sign that the system is not
-well-understood, and you have to go back to basics to really understand it.
+There are two common approaches to solving these problems. The first is to identify the symptom and treat it and hope that the symptom is also the root cause. The second approach is to go one step further and "modify" the system. Some of the common examples of this are one or more of the following:
+
+-   Add redundancy
+
+-   Increase the frequency of maintenance attention
+
+-   Provide a "by-passing" feature
+
+Often, these steps do not guarantee a permanent fix to the problem. Because, the system is not well understood, we introduce "rules" to control the problems. Some of these include launching a "drive" to weed out potential failures, increasing the frequency and level of "inspection", fixing responsibility on personnel etc.
+
+In this blog I argue that there is a third alternative - adopting scientific methods to examine the problem. This approach is seldom pursued. We need to understand the system from the basics and approach the problem by asking "What is the cause?" rather than "who is responsible?".
