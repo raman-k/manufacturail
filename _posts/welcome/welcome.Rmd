@@ -1,7 +1,7 @@
 ---
-title: "Statistical Inferences"
+title: "Welcome to manfactuRail"
 description: |
-  How do we make inferences that are "statsitically sound"?
+  Hi! I am a mechanical engineer with the Indian Railways. I've been with the organization for over 30 years now. My experience is in the areas of maintenance, repair and manufacture of rolling stock.
 author:
   - name: K Raman
     url: https://raman-k.github.io/
@@ -21,4 +21,34 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ```
 
-A statistic is a function of sample data. The sum, average, variance or standard deviation of the sample data are examples of a statistic. Since a statistic is itself a function of sample from a random process, it will exhibit randomness. 
+There are two views about factories that are very
+widespread.
+
+1.     
+One is that factories are huge messes that cannot
+possibly be understood, and at the best that anyone can do is to overbuild them
+and then, react to unwelcome events as they happen.
+
+2.     
+The other is that factories can be understood, but only
+designed and operated using common sense, non-quantitative methods.
+
+1.     
+The message here is that we can treat factories with
+quantitative engineering approaches and methods.
+
+2.     
+Complex systems can be
+hard to manage. And when a system is not well-understood, rules for management
+proliferate. This is because rules are developed to regulate behavior. Behavior
+refers to how the system behaves and how it reacts to events. Good rules
+promote desirable behavior. Bad rules promote bad behavior. But bad rules can
+lead to unexpected, undesirable behavior. Why? Because the system is not
+well-understood. If you don't understand how a system works, you won't design
+rules that lead to desirable behavior and desirable performance. Once somebody
+sees that things aren't going so well, they develop new rules to regulate the
+new behavior. But these new rules won't be so good for the same reason. You
+don't understand the system. You see the bad behavior, and you develop still
+more rules, and so forth. Whenever you see a complicated system in which there
+are large, large numbers of rules, that may be a sign that the system is not
+well-understood, and you have to go back to basics to really understand it.
