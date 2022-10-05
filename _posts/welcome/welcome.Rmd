@@ -5,8 +5,7 @@ description: |
 author:
   - name: K Raman
     url: https://raman-k.github.io/
-    affiliation: Rail Wheel Factory Yelahanka
-    affiliation_url: https://rwf.indianrailways.gov.in
+    
 date: 10-04-2022
 output:
   distill::distill_article:
