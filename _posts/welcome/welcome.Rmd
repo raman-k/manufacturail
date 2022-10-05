@@ -45,10 +45,11 @@ The second approach is to go one step further and "modify" the system. Some of t
 
 -   Provide a "by-passing" feature
 
-### **Remember**
-
-### Factor of safety $\large \propto$ Factor of ignorance
 
 Often, these steps do not guarantee a permanent fix to the problem. Because, the system is not well understood, we introduce "rules" to control the problems. Some of these include launching a "drive" to weed out potential failures, increasing the frequency and level of "inspection", fixing responsibility on personnel etc.
 
 In this blog I argue that there is a third alternative - adopting scientific methods to examine the problem. This approach is seldom pursued. We need to understand the system from the basics and approach the problem by asking "What is the cause?" rather than "who is responsible?".
+
+### **Remember**
+
+### Factor of safety $\large \propto$ Factor of ignorance
